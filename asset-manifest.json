@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-movies/static/css/main.996cbe6a.chunk.css",
+    "main.js": "/goit-react-hw-04-movies/static/js/main.630c5c92.chunk.js",
+    "main.js.map": "/goit-react-hw-04-movies/static/js/main.630c5c92.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-04-movies/static/js/runtime-main.ad4bcf9c.js",
+    "runtime-main.js.map": "/goit-react-hw-04-movies/static/js/runtime-main.ad4bcf9c.js.map",
+    "static/css/2.3d72dcb8.chunk.css": "/goit-react-hw-04-movies/static/css/2.3d72dcb8.chunk.css",
+    "static/js/2.1a677f63.chunk.js": "/goit-react-hw-04-movies/static/js/2.1a677f63.chunk.js",
+    "static/js/2.1a677f63.chunk.js.map": "/goit-react-hw-04-movies/static/js/2.1a677f63.chunk.js.map",
+    "index.html": "/goit-react-hw-04-movies/index.html",
+    "precache-manifest.5c0019445594e47860a204af229d3592.js": "/goit-react-hw-04-movies/precache-manifest.5c0019445594e47860a204af229d3592.js",
+    "service-worker.js": "/goit-react-hw-04-movies/service-worker.js",
+    "static/css/2.3d72dcb8.chunk.css.map": "/goit-react-hw-04-movies/static/css/2.3d72dcb8.chunk.css.map",
+    "static/css/main.996cbe6a.chunk.css.map": "/goit-react-hw-04-movies/static/css/main.996cbe6a.chunk.css.map",
+    "static/js/2.1a677f63.chunk.js.LICENSE.txt": "/goit-react-hw-04-movies/static/js/2.1a677f63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad4bcf9c.js",
+    "static/css/2.3d72dcb8.chunk.css",
+    "static/js/2.1a677f63.chunk.js",
+    "static/css/main.996cbe6a.chunk.css",
+    "static/js/main.630c5c92.chunk.js"
+  ]
+}
