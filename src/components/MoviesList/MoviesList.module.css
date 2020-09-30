@@ -1,0 +1,16 @@
+.moviesList {
+  margin-top: 10px;
+  list-style: disc;
+  padding-left: 20px;
+}
+
+.movieItem {
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.movieItem:hover {
+  text-decoration: underline;
+  color: red;
+}

@@ -1,0 +1,13 @@
+.reviewsList {
+  padding-left: 30px;
+  list-style: outside;
+}
+
+.reviewsListItem:not(:last-child) {
+  margin-bottom: 25px;
+}
+
+.reviewAuthor {
+  font-weight: 700;
+  font-style: italic;
+}

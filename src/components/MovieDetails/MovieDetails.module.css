@@ -1,0 +1,35 @@
+.wrapper {
+  display: flex;
+}
+
+.posterImg {
+  width: 250px;
+  margin-right: 25px;
+}
+
+.movieTitle {
+  margin-bottom: 15px;
+}
+
+.userScore {
+  margin-bottom: 15px;
+}
+
+.owerviewTitle {
+  margin-bottom: 10px;
+}
+
+.owerviewText {
+  margin-bottom: 15px;
+  width: 900px;
+}
+
+.genresTitle {
+  margin-bottom: 10px;
+}
+
+.genresList {
+  display: flex;
+  width: 250px;
+  justify-content: space-between;
+}
